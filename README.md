@@ -39,18 +39,20 @@ skill_issue.md   * whirring....
 
 ## how a phrase becomes a shirt
 
-open a PR. the rest sorts itself out.
+you think of something at 2am that should be on a shirt.
+you open a PR. you wait.
 
-the wizard opens a window. you have 48 hours.
-submit something worth wearing.
+the wizard opens a window when the wizard feels like it.
+you have 48 hours. the wizard does not negotiate.
+merged = it's getting made. closed = not this time. no appeals.
 
 ```
 * the wizard is watching.
 ```
 
-want to know when the next window opens? watch this repo. read [WIZARD.md](WIZARD.md).
-got a phrase? see what's already in the queue — [IDEAS.md](IDEAS.md).
-see [CONTRIBUTING.md](CONTRIBUTING.md) if you need the details.
+[IDEAS.md](IDEAS.md) — what's already in the queue. don't submit duplicates. the wizard hates that.
+[WIZARD.md](WIZARD.md) — wizard status. read this before asking when the next window is.
+[CONTRIBUTING.md](CONTRIBUTING.md) — yes there are rules. yes you should read them.
 
 ---
 
