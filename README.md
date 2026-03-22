@@ -49,6 +49,7 @@ submit something worth wearing.
 ```
 
 want to know when the next window opens? watch this repo. read [WIZARD.md](WIZARD.md).
+got a phrase? see what's already in the queue — [IDEAS.md](IDEAS.md).
 see [CONTRIBUTING.md](CONTRIBUTING.md) if you need the details.
 
 ---
