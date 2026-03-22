@@ -1,74 +1,76 @@
-# contributing to terminal_thoughts
+# contributing.md
 
-## the idea
+so you think you have a phrase.
 
-every shirt starts as a phrase. phrases come from developers — the things we say, think, or stare at for too long.
-
-if you have a phrase that belongs on a terminal_thoughts shirt, submit it here. the PR is the vote. the community discusses in the comments. if it gets merged, it gets made.
+maybe you do. maybe you don't. the wizard will decide.
+here's how to find out.
 
 ---
 
 ## how to submit
 
 1. fork this repo
-2. create a new file: `phrases/community/your-phrase-name.yaml`
-3. fill it out (see format below)
-4. open a PR with the title: `phrase: your_phrase.md`
-5. that's it — the conversation happens in the PR
+2. add a file: `phrases/community/your-phrase-name.yaml`
+3. fill it out (format below)
+4. open a PR titled `phrase: your_phrase.md`
+5. wait. the wizard is not on your schedule.
 
 ---
 
-## phrase format
+## the format
 
 ```yaml
-phrase: "the text that goes on the shirt"
-filename: "your_phrase.md"        # what shows in the status bar
-status: "* your status string"    # optional — right side of status bar
-notes: "why this belongs"         # optional but appreciated
+phrase: "the thing that goes on the shirt"
+filename: "your_phrase.md"
+status: "* something..."     # optional. right side of the status bar.
+notes: "why this belongs"    # optional. won't hurt your odds.
 submitted_by: "@yourhandle"
 ```
 
 ---
 
-## what makes a good phrase
+## what gets approved
 
-- a developer says it or thinks it without prompting
-- it works as a filename — underscores, `.md` extension
-- there's a human truth inside the technical framing
-- it hasn't been printed on a shirt before
-- it stands alone with no explanation needed
+a developer reads it and immediately feels something. no explanation needed. no setup. just recognition.
 
-**the test:** if the right person sees it on someone in a coffee shop and thinks "okay" — it works.
+it works as a filename. underscores. `.md`. you know the drill.
 
----
+it hasn't been printed on a shirt before. check before you submit.
 
-## what doesn't make it
-
-- too general ("i love coffee and code")
-- requires explanation ("it's funny because...")
-- been done ("404 brain not found")
-- not a genuine developer thought
+**the test:** someone sees it on a stranger in a coffee shop and thinks "okay." that's it. that's the whole bar.
 
 ---
 
-## what happens after
+## what gets closed
 
-open PRs are the backlog. when the submission window opens, the team reviews what's been submitted. approved phrases get designed and dropped in the next release. the wizard decides.
+```
+* rejected: requires explanation.
+* rejected: already been printed.
+* rejected: not a genuine developer thought.
+* rejected: "i love coffee and code" energy.
+* rejected: the wizard said no.
+```
 
-merged = it's getting made.
-closed = not this time.
+the wizard does not elaborate. closed is closed.
 
 ---
 
 ## status strings
 
-the right side of the status bar is where the phrase lives mechanically. two formats:
+the right side of the status bar. two flavors:
 
-- parenthetical: `(thinking...)` `(context limit reached)` `(awaiting feedback)`
+- parenthetical: `(thinking...)` `(context limit reached)` `(awaiting feedback)` `(deprecated)`
 - action: `* whirring....` `* probably just magic` `* summoning...`
 
-if you're not sure, leave it blank. silence is a valid design choice.
+not sure? leave it blank. silence is a valid design choice.
 
 ---
 
-*terminal_thoughts™ — Gamertagged Studios*
+## when does the wizard review
+
+when the window opens. watch [WIZARD.md](WIZARD.md).
+your PR sits in the queue until then. that's fine. the wizard is patient.
+
+---
+
+*the wizard is watching.*
