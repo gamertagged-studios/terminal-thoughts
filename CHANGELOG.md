@@ -18,6 +18,15 @@ schemes: phosphor / mono
 
 - `ran_out_of_tokens.md` — dropping soon
 
+### charity
+
+```
+agents.md      → $2/order → One Tree Planted      (onetreeplanted.org)
+skill_issue.md → $2/order → Mental Health America  (mhanational.org)
+```
+
+→ [DO_GOOD.md](DO_GOOD.md)
+
 ### notes
 
 first drop. phosphor green on black. white on black. black on white.

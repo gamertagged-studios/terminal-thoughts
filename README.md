@@ -37,6 +37,19 @@ skill_issue.md   * whirring....
 
 ---
 
+## do_good.md
+
+every order moves something. drop_01:
+
+```
+agents.md      → $2/order → One Tree Planted
+skill_issue.md → $2/order → Mental Health America
+```
+
+[DO_GOOD.md](DO_GOOD.md) — the log. the wizard keeps receipts.
+
+---
+
 ## how a design becomes a shirt
 
 you see something in a terminal at 2am that should be on a shirt.

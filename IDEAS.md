@@ -26,6 +26,9 @@ your_phrase.md   * your status string   — why it belongs (optional)
 the wizard reviews submissions when the window is open.
 see [WIZARD.md](WIZARD.md) to know when that is.
 
+if it gets merged, you pick a charity. $2 from every sale goes there. permanently.
+see [CONTRIBUTING.md](CONTRIBUTING.md) for the full process and [DO_GOOD.md](DO_GOOD.md) to see how it works.
+
 ---
 
 ## rules (short version)

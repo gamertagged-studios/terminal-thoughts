@@ -56,10 +56,22 @@ charity: "your chosen charity"                 # if merged, this is where the pr
 ## the charity thing
 
 if your design gets merged and made into a shirt, you pick a charity.
-a portion of every sale of that shirt goes there. permanently. it's in the product description.
+$2 from every sale of that shirt goes there. permanently. it's in the product description.
 your name. your charity. every time someone buys it.
 
-pick something real. the wizard will verify.
+pick something real. registered. legitimate. the wizard will look it up.
+
+the wizard approves the org before the PR merges. not every charity makes the cut.
+if yours doesn't pass, you pick again. no appeals. no exceptions.
+
+drop_01 set the precedent:
+
+```
+agents.md      → One Tree Planted    (onetreeplanted.org)
+skill_issue.md → Mental Health America  (mhanational.org)
+```
+
+see [DO_GOOD.md](DO_GOOD.md) for the running log.
 
 ---
 
